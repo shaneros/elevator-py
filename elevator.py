@@ -1,2 +1,3 @@
 print("Oh boy, here we go!")
-print(range(0,10))
+list_of_floors = list(range(5))
+print(list_of_floors)
